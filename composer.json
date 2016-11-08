@@ -35,7 +35,7 @@
     "consolidation/robo": "dev-master",
     "symfony/config": "~2.2",
     "consolidation/annotated-command": "~2",
-    "consolidation/output-formatters": "~2",
+    "consolidation/output-formatters": "2.1.2",
     "symfony/yaml": "~2.3",
     "symfony/var-dumper": "~2.7",
     "symfony/console": "~2.7",
